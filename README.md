@@ -21,8 +21,8 @@
 
 ## Tool Screenshots
 
-![Process Screenshot](https://github.com/ClownQq/YDArk/blob/master/screenshots/Process.png)
-![System Notify Screenshot](https://github.com/ClownQq/YDArk/blob/master/screenshots/SystemNotify.png)
+![Process Screenshot](/screenshots/Process.png)
+![System Notify Screenshot](/screenshots/SystemNotify.png)
 
 ## Features
 
